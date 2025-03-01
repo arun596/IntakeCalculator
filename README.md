@@ -1,4 +1,6 @@
 Intake Calculator
+![image alt]([image](https://github.com/arun596/IntakeCalculator/blob/f4c6b1006f1863eb24508a9a600a06e246990ad2/Screenshot%202025-03-01%20110359.png))
+
 Intake Calculator is a React-based web application that helps users determine their daily calorie intake, protein requirements, water consumption, and Body Mass Index (BMI) based on personal attributes like weight, height, age, gender, and activity level.
 
 🔹 Features
