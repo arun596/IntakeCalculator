@@ -24,13 +24,6 @@ function Header() {
               Contact
               </NavLink>
               </li>
-
-
-              <li>
-              <NavLink to="/feedback" className={({isActive}) => `${isActive ? "text-gray-400" : "text-white"}`}>
-              Feedback
-              </NavLink>
-              </li>
             
           </ul>
         </div>
